@@ -1,2 +1,2 @@
 #!/bin/bash
-path=$(0-current_working_directory) echo 'The absolute path is' $path
+echo '0x00-shell_basics' 
