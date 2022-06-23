@@ -1,6 +1,0 @@
-#!/bin/bash
-
-path=$(0-current_working_directory)
-echo 'The absolute path is' $path
-
-
