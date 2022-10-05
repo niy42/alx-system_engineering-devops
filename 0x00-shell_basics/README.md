@@ -1,1 +1,0 @@
-Directory contains scripting tasks
