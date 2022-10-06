@@ -1,1 +1,1 @@
-About shell permissions
+This directory is about shell permissions
